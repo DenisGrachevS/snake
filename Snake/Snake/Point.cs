@@ -10,7 +10,7 @@ namespace Snake {
         public int y;
         public char sym;
 
-        //int изменение для гитт
+       
 
         public Point () 
         {
