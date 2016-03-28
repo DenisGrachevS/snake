@@ -1,1 +1,6 @@
 C:\Users\User\Downloads\C#\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\User\Downloads\C#\Snake\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\User\Downloads\C#\Snake\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\User\Downloads\C#\Snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\C#\Snake\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\User\Downloads\C#\Snake\Snake\Snake\obj\Debug\Snake.pdb
